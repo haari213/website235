@@ -1,0 +1,22 @@
+
+body
+{
+
+  background-image: url(BCK.jpg);
+  background-size: cover;
+
+}
+.B2{
+
+    color: rgb(118, 62, 62);
+    font-family: 'Franklin Gothic Medium';
+    margin-left: 430px;
+    font-size: 70px;
+
+}
+
+.PC1{
+font-size: 40px;
+font-weight: 80px;
+
+}

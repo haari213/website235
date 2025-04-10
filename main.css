@@ -1,0 +1,41 @@
+body{
+
+    background-color: azure;
+    background-image: url("picturess.jpg");
+    background-size: cover;
+}
+
+
+
+.p1
+{
+ height:70px;
+ width: 400px;
+ background-color: aquamarine;
+ margin-left: 100px;
+ margin-bottom: 400px;
+ border-radius: 20px;
+ border-color: aquamarine;
+ border-width: 2px;
+}
+a{
+
+
+    color: black;
+    font-family:fantasy;
+    font-size: 40px;
+}
+.p1:hover{
+   
+    height: 70px;
+    width: 400px;
+    background-color: rgb(244, 103, 33);
+    border-radius: 30px;
+}
+
+
+.HED{
+
+    margin-right: 50px;
+    margin-left: 200px;
+}
